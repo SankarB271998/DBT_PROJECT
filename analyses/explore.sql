@@ -1,0 +1,6 @@
+select * from {{ref ('silver_hosts') }}
+
+
+
+
+
